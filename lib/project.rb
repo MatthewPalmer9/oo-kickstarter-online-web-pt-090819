@@ -1,2 +1,5 @@
 class Project
-end 
+
+  def initialize
+  end 
+end
